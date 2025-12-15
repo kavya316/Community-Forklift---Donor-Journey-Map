@@ -46,6 +46,3 @@ Special thanks to Martina and Trey, logistics coordinators at Community Forklift
 We would also like to thank our professor, Mary Ann Francis, and teaching assistant, Pooja Upadhyay, for introducing us to this project and for their immense support.
 
 Community Forklift’s website: www.communityforklift.org | Phone: (301) 985-5180
-Acknowledgments
-
-Special thanks to Martina and Trey, logistics coordinators at Community Forklift, for providing a warehouse tour, answering questions, and offering continuous feedback throughout the project.
