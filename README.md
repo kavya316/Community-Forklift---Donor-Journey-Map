@@ -18,9 +18,9 @@ Project Plan (Part 1).pdf – Initial project plan outlining goals and timeline.
 
 Project Plan (Part 2).pdf – Updated project plan with revised milestones and deliverables.
 
-MID SEMESTER Presentation 490 - Community Forklift – Mid-semester presentation slides.
+MID SEMESTER Presentation - Community Forklift – Mid-semester presentation slides.
 
-FINAL Presentation Community Forklift (12_11) – Final project presentation slides.
+FINAL Presentation - Community Forklift (12_11) – Final project presentation slides.
 
 Journey Map IMG – Image of the donor and material journey map.
 
