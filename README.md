@@ -12,6 +12,8 @@ Deliverables
 
 The repository contains the following files and folders:
 
+Community Forklift - Material Donation Journey Mapping - Final Paper.pdf – Final written report summarizing the project, findings, and recommendations.
+
 Requirements Interview and Document.pdf – Document summarizing stakeholder interviews and requirements.
 
 Project Plan (Part 1).pdf – Initial project plan outlining goals and timeline.
